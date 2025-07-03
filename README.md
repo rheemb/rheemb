@@ -41,7 +41,7 @@ I’m a sports junkie—F1, Basketball, Soccer, Tennis, and Cricket are my go-to
 
 ### 📫 Let’s Connect!
 I’m always down to connect with tech enthusiasts who share my passion for Data Engineering, AI, and sustainable tech. Hit me up about ETL pipelines, data visualization with Power BI or Tableau or breaking into data roles! I’d also love to collaborate on projects around scalable data solutions, AI, or green tech. I’m looking for full-time roles as a Data Analyst, Data Engineer, Business Analyst, or anything that fits my experience in data and cross-functional work. My communication skills and can-do attitude make me a great partner for brainstorming and driving projects forward.  
-- **LinkedIn**: [linkedin](https://linkedin.com/in/raheem-abdul)  
+<!-- - **LinkedIn**: [linkedin](https://linkedin.com/in/raheem-abdul)  -->
 - **GitHub**: You’re already here-check my repos below! 🐙  
 
 
